@@ -1,9 +1,9 @@
 import React from 'react';
 
 function Header() {
-    return <div>
-        <header>Parisa Ettehad</header>
-    </div>
+    return <header>
+        <h1>Parisa Ettehad</h1>
+    </header>
 }
 
 export default Header;
